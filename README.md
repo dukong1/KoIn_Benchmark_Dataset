@@ -5,7 +5,7 @@
 * This work is presented at arXiv
 
 ### Authors
-[Jinwoo Seo](), [Soora Choi](), [Eungyeom Ha](https://github.com/poori-nuna), [범준 킴](), [Dongbin Na](https://github.com/ndb796)
+[Jinwoo Seo](https://github.com/dukong1), [Soora Choi](), [Eungyeom Ha](https://github.com/poori-nuna), [범준 킴](), [Dongbin Na](https://github.com/ndb796)
 
 ### Abstract
 > The face classification system is an important tool for recognizing personal identity properly.
