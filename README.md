@@ -50,9 +50,16 @@ Our presented dataset and codes will be publicly available for academic purposes
     |          | Dataset |
     |----------|---------|
     | KoIn10 |<p align="center">[KoIn10](https://drive.google.com/drive/folders/178c7uJM99eY87OZJQAy_Vn6u5xgAezwc?usp=sharing)</p>|
-    | KoIn50 |<p align="center">[KoIn50](https://drive.google.com/drive/folders/14V2QCmqjrMXgasbnuZ0NpnLzWU2621fC?usp=sharing)</p> |
-    | KoIn100 |<p align="center">[KoIn100](https://drive.google.com/drive/folders/10t3fAwlNV764pzHz1crinezgDfEsU1i5?usp=sharing)</p> 
+    | KoIn50 |<p align="center">[KoIn50](https://drive.google.com/drive/folders/14V2QCmqjrMXgasbnuZ0NpnLzWU2621fC?usp=sharing)</p>|
+    | KoIn100 |<p align="center">[KoIn100](https://drive.google.com/drive/folders/10t3fAwlNV764pzHz1crinezgDfEsU1i5?usp=sharing)</p>|
 
+    |              | Architecture |
+    |--------------|--------------|
+    |    ResNet    |<p align = "center"> [ResNet_foundation_model]()
+    |   DenseNet   |<p align = "center"> [DenseNet_foundation_model]()
+    | EfficientNet |<p align = "center"> [EfficientNet_foundation_model]()
+    |    BiT-M     |<p align = "center"> [BiT-m_foundation_model]()
+    |    CLIP      |<p align = "center"> [CLIP_foundation_model]()
 ### Demonstration
 * The example images from the hard case test dataset and the corresponding inference results based on the training dataset.
 
