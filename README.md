@@ -40,7 +40,7 @@ Our presented dataset and codes will be publicly available for academic purposes
             test/
         <b>hard_cases/</b>
             test/
-        <b>Group_cases</b>
+        <b>Group_cases/</b>
             test/</pre>
 
 * The normal case training dataset contains 100,000 images.
