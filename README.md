@@ -47,8 +47,6 @@ Our presented dataset and codes will be publicly available for academic purposes
 * The normal case test dataset contains 5,000 images.
 * The hard case test dataset contains 1,000 images.
 * The group case test dataset contains 500 images.
-  
-### Source Codes
 
 ### Source Codes
 
