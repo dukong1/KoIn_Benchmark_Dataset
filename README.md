@@ -22,18 +22,25 @@ In this paper, we also analyze the robustness performance against hard case samp
 Our presented dataset and codes will be publicly available for academic purposes after the paper is accepted.
 
 ### Datasets
-* The dataset is divided into three distinct groups based on the difficulty of image classification, the <b>Normal cases</b>, the <b>Hard cases</b>, and the <b>Group cases</b>.
+* The dataset is divided into three distinct groups based on the difficulty of Korean influencer / Asian image classification, the <b>Normal cases</b>, the <b>Hard cases</b>, and the <b>Group cases</b>.
 
     <img src="resources/KI.png" width="90%">
 
-* This repository provides (1) Normal case training dataset, (2) Hard case training dataset, (3) Normal case test dataset, (4) Hard case test dataset, (5) Normal case test dataset, (6) Hard case test dataset.
+* This repository provides (1) Normal case training dataset, (2) Normal case test dataset, (3) Hard case test dataset, (4) Group case test dataset
 
     <pre><b>Dataset/</b>
         <b>normal_cases/</b>
             train/
+                0000/
+                    0.jpg
+                    .....
+                0001/
+                ....
+                0099/
             test/
         <b>hard_cases/</b>
-            train/
+            test/</pre>
+        <b>Group_cases</b>
             test/</pre>
 
 * The normal case training dataset contains 100,000 images.
