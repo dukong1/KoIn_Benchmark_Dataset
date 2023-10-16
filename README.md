@@ -39,7 +39,7 @@ Our presented dataset and codes will be publicly available for academic purposes
                 0099/
             test/
         <b>hard_cases/</b>
-            test/</pre>
+            test/
         <b>Group_cases</b>
             test/</pre>
 
