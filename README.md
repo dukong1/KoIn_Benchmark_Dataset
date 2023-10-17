@@ -2,7 +2,6 @@
 
 ### New Benchmarks for Asian Facial Recognition Tasks: Face Classification with Large Foundation Models
 * This repository provides Korean Influencer(KoIN) Dataset and PyTorch implementations for Image Classification models.
-* This work is presented at arXiv
 
 ### Authors
 [Jinwoo Seo](https://github.com/dukong1), [Soora Choi](https://github.com/SooraChoi), [Eungyeom Ha](https://github.com/poori-nuna), [BeomJune Kim](https://github.com/Kdavid2355), [Dongbin Na](https://github.com/ndb796)
