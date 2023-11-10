@@ -70,8 +70,10 @@ Our presented dataset and codes will be publicly available for academic purposes
   <img src="resources/KoIn_CNN_architecture.png" width="90%">
   <img src="resources/KoIn_few_shot_learning_architure.png" width="90%">
 
-* The detection performance of trained models.
+* KoIn hard / group case performance experiment.
+We selected a model that performed well in the normal case.
 
-  <img src="resources/KI_model.png" width="90%">
+  <img src="resources/KoIn_hard_CNN.png" width="90%">
+  <img src="resources/KoIn_hard_few_shot.png" width="90%">
   
 ### Citation
