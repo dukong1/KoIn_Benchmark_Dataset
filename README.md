@@ -80,12 +80,10 @@ We selected a model that performed well in the normal case.
 If this work can be useful for your research, please cite our paper:
 
 <pre>
-@misc{seo2023new,
-      title={New Benchmarks for Asian Facial Recognition Tasks: Face Classification with Large Foundation Models}, 
-      author={Jinwoo Seo and Soora Choi and Eungyeom Ha and Beomjune Kim and Dongbin Na},
-      year={2023},
-      eprint={2310.09756},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@article{seo2023new,
+  title={New Benchmarks for Asian Facial Recognition Tasks: Face Classification with Large Foundation Models},
+  author={Seo, Jinwoo and Choi, Soora and Ha, Eungyeom and Kim, Beomjune and Na, Dongbin},
+  journal={arXiv preprint arXiv:2310.09756},
+  year={2023}
 }
 </pre>
