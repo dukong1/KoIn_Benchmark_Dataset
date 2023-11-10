@@ -64,8 +64,8 @@ Our presented dataset and codes will be publicly available for academic purposes
     | EfficientNet |<p align = "center"> [EfficientNet_foundation_model]()
     |    BiT-M     |<p align = "center"> [BiT-m_foundation_model]()
     |    CLIP      |<p align = "center"> [CLIP_foundation_model]()
-### Demonstration
-* The example images from the hard case test dataset and the corresponding inference results based on the training dataset.
+### Experiment result
+* Experimental results with KoIn 50 dataset. We experimented with CNN architectures ResNet, DenseNet, EfficientNet, and few-shot learning architectures BiT, CLIP.
 
   <img src="resources/KI2.png" width="90%">
 
