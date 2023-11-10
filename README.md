@@ -67,7 +67,7 @@ Our presented dataset and codes will be publicly available for academic purposes
 ### Experiment result
 * Experimental results with KoIn 50 dataset. We experimented with CNN architectures ResNet, DenseNet, EfficientNet, and few-shot learning architectures BiT, CLIP.
 
-  <img src="resources/KI2.png" width="90%">
+  <img src="resources/KoIn_CNN_architecture.png" width="90%">
 
 * The detection performance of trained models.
 
